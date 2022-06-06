@@ -13,5 +13,6 @@
   },
   "keywords": [
     "server"
-  ]
+  ],
+  "repository": "tangzhenming/gogoserver"
 }
