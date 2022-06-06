@@ -9,7 +9,7 @@
   "author": "tangzhenming",
   "license": "MIT",
   "bin": {
-    "gogoserver": "bin/index.js"
+    "gogoserver": "src/index.js"
   },
   "keywords": [
     "server"
