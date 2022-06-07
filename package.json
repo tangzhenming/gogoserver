@@ -1,6 +1,6 @@
 {
   "name": "gogoserver",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
   ],
   "repository": "tangzhenming/gogoserver",
   "dependencies": {
+    "art-template": "^4.13.2",
     "commander": "^9.3.0"
   }
 }
