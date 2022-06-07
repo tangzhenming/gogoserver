@@ -14,8 +14,8 @@ program.name("gogoserver").description("CLI to start a server");
 program
   .command("serve")
   .description("start service")
-  .option("-p, --port <number>", 3000)
+  .option("-p, --port <number>", "port to start server on")
   .action(({ port }) => {
-    startService(port);
+    startService(port || 3000);
   });
 program.parse(process.argv);
