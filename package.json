@@ -14,5 +14,8 @@
   "keywords": [
     "server"
   ],
-  "repository": "tangzhenming/gogoserver"
+  "repository": "tangzhenming/gogoserver",
+  "dependencies": {
+    "commander": "^9.3.0"
+  }
 }
