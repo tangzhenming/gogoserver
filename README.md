@@ -24,10 +24,6 @@
 - [ ] 9. 支持 redirect
 - [ ] ...
 
-## Q&A
-
-1. [什么是 rewrite 和 redirect？](https://blog.csdn.net/weixin_33755847/article/details/93204614)
-
 ## 参考资料
 
 1. [serve-handler](https://github.com/vercel/serve-handler)
